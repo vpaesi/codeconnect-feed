@@ -10,8 +10,6 @@ Neste projeto foi desenvolvida a tela de feed da aplicação. Nela há um menu d
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
-Durante esse curso utilizaremos:
-
 - Figma
 - JavaScript
 - React
